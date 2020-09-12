@@ -17,7 +17,7 @@ function pri(n1 , n2 , n3) {
         console.log('true');
         else console.log ('false');
     } 
-    pri(8, 2, 3)
+    pri(8, 2, 4)
     pri(1, 5, 7)
 
    //Задание 3
